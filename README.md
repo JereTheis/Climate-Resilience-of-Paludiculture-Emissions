@@ -1,6 +1,6 @@
 # Climate-Resilience-of-Paludiculture-Emissions
 
-This repository shares the supplementary R code for the the thesis:  'Climate resilience of paludicultures in Germany – How resilient are greenhouse gas emissions, water levels & yield with a changing climate?'
+This repository shares the supplementary R code for the thesis:  'Climate resilience of paludicultures in Germany – How resilient are greenhouse gas emissions, water levels & yield with a changing climate?' by Jeremias Theis, written in 2026
 
  This R code works with the dataset for paludiculture emissions produced by the MOOruse project. (https://www.hswt.de/forschung/projekt/958-mooruse)
  
